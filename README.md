@@ -63,7 +63,7 @@ curl https://basic-info-retrieval.vercel.app/
 
 ## Deployment
 The API has been deployed to a publicly accessible endpoint:
-```link
+
 https://basic-info-retrieval.vercel.app/
 
 

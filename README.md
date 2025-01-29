@@ -39,4 +39,16 @@ Endpoint:
   "current_datetime": "2025-01-29T12:34:56.789Z",
   "github_url": "https://github.com/Topzee001/basic-info-retrieval"
 }
+```
+## Response Codes:
+```200 OK```: Data returns successfully
+```404 Not Found```: when the endpoint is unavailabe
+
+## Example Usage
+```bash
+curl https://
+```
+## Backlinks
+[link test](link)
+
 

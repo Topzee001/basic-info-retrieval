@@ -1,7 +1,8 @@
+const MY_INFO = require('../utils/constants')
 exports.getRequest = (req, res) => {
   res.status(200).send({
-    email: 'ibrahimsakariyah@gmail.com',
+    email: MY_INFO.email,
     current_datetime: new Date().toISOString(),
-    github_url: 'https://github.com/Topzee001/basic-info-retrieval',
+    github_url: MY_INFO.github_url,
   });
 };

@@ -17,8 +17,7 @@ This is a simple Node.js API, it is a get request response which returns basic i
 
 3. install required dependencies
    ```bash
-    npm init -y
-   npm i nodemon
+    npm install
 5. start the server
    ```bash
     npm start

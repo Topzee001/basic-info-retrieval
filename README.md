@@ -41,6 +41,7 @@ Endpoint:
 ```
 ## Response Codes:
 ```200 OK```: Data returns successfully
+
 ```404 Not Found```: when the endpoint is unavailabe
 
 ## Example Usage

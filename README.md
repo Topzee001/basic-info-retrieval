@@ -46,7 +46,7 @@ Endpoint:
 
 ## Example Usage
 ```text
-curl https://
+curl https://basic-info-retrieval.vercel.app/
 ```
 ## Backlinks
 [Hire Python Developers](https://hng.tech/hire/python-developers)
@@ -64,7 +64,7 @@ curl https://
 ## Deployment
 The API has been deployed to a publicly accessible endpoint:
 ```text
-https://
+[basic info retrieval](https://basic-info-retrieval.vercel.app/)
 
 
 

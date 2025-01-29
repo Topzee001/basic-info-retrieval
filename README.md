@@ -17,8 +17,7 @@ This is a simple Node.js API, it is a get request response which returns basic i
 
 3. install required dependencies
    ```bash
-    npm init -y
-   npm i nodemon
+    npm install
 5. start the server
    ```bash
     npm start
@@ -42,6 +41,7 @@ Endpoint:
 ```
 ## Response Codes:
 ```200 OK```: Data returns successfully
+
 ```404 Not Found```: when the endpoint is unavailabe
 
 ## Example Usage
@@ -50,10 +50,15 @@ curl https://
 ```
 ## Backlinks
 [Hire Python Developers](https://hng.tech/hire/python-developers)
+
 [Hire C# Developers](https://hng.tech/hire/csharp-developers)
+
 [Hire Golang Developers](https://hng.tech/hire/golang-developers)
+
 [Hire PHP Developers](https://hng.tech/hire/php-developers)
+
 [Hire Java Developers](https://hng.tech/hire/java-developers)
+
 [Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
 
 ## Deployment

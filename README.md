@@ -12,16 +12,17 @@ This is a simple Node.js API, it is a get request response which returns basic i
    ```bash
    git clone https://github.com/Topzee001/basic-info-retrieval.git
 2. Navigate to the project repository
-  ```markdown
-  ```shell
+     ```bash
     cd basic-info-retrieval
-```
+
 3. install required dependencies
-   ``` npm init -y```
-   ```npm i nodemon```
+   ```bash
+    npm init -y
+   npm i nodemon
 5. start the server
-   ``` npm start```
-6. access the api locally with:
+   ```bash
+    npm start
+7. access the api locally with:
    ``` http://localhost:8000```
 
 ## API Documentation

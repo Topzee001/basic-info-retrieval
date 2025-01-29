@@ -37,6 +37,6 @@ Endpoint:
 {
   "email": "ibrahimsakariyah@gmail.com",
   "current_datetime": "2025-01-29T12:34:56.789Z",
-  "github_url": "[https://github.com/Topzee001/](https://github.com/Topzee001/basic-info-retrieval)"
+  "github_url": "https://github.com/Topzee001/basic-info-retrieval"
 }
 

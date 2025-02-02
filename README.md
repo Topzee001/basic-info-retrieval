@@ -57,5 +57,9 @@ The API has been deployed to a publicly accessible endpoint:
 
 https://basic-info-retrieval.vercel.app/
 
+## Contact
+
+Created by Ibrahim Temitope (topzee) for the HNG Internship program.
+Gmail: ```topzee001@gmail.com```
 
 
